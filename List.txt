@@ -1,2 +1,6 @@
 intitle:"index of" "parent directory" "size" intext:.env
+intitle:"index of" "parent directory" "size" intext:.mp3
+intitle:"index of" "parent directory" "size" intext:.php
+intitle:"index of" "parent directory" "size" intext:.xml
+
 inurl:/cgi-bin/
