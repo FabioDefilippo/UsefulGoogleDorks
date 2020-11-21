@@ -1,0 +1,2 @@
+intitle:"index of" "parent directory" "size" intext:.env
+inurl:/cgi-bin/
