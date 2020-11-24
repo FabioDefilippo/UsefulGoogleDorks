@@ -3,5 +3,10 @@ intitle:"index of" "parent directory" "size" intext:.mp3
 intitle:"index of" "parent directory" "size" intext:.php
 intitle:"index of" "parent directory" "size" intext:.xml
 intitle:"index of" "parent directory" "size" intext:.dat
+intitle:"index of" "parent directory" "size" intext:.conf
+intitle:"index of" "parent directory" "size" intext:.log
 
 inurl:/cgi-bin/
+inurl:/wp-content/
+inurl:/wp-admin
+inurl:admin-login
