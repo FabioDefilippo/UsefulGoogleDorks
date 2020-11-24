@@ -12,3 +12,4 @@ inurl:/wp-content/
 inurl:/wp-admin
 inurl:admin-login
 inurl:remote/login?lang=
+inurl:login.php
