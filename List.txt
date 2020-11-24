@@ -5,6 +5,7 @@ intitle:"index of" "parent directory" "size" intext:.xml
 intitle:"index of" "parent directory" "size" intext:.dat
 intitle:"index of" "parent directory" "size" intext:.conf
 intitle:"index of" "parent directory" "size" intext:.log
+intitle:"index of" "parent directory" "size" intext:.apk
 
 inurl:/cgi-bin/
 inurl:/wp-content/
