@@ -6,6 +6,7 @@ intitle:"index of" "parent directory" "size" intext:.dat
 intitle:"index of" "parent directory" "size" intext:.conf
 intitle:"index of" "parent directory" "size" intext:.log
 intitle:"index of" "parent directory" "size" intext:.apk
+intitle:"index of" "parent directory" "size" intext:.mdb
 
 inurl:/cgi-bin/
 inurl:/wp-content/
@@ -13,3 +14,4 @@ inurl:/wp-admin
 inurl:admin-login
 inurl:remote/login?lang=
 inurl:login.php
+filetype:mdb inurl:users. xml
